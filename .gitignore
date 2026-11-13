@@ -1,0 +1,7 @@
+node_modules/
+dist/
+shots/
+tg_insights_out/
+*.local
+.DS_Store
+Thumbs.db
